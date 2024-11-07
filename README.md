@@ -1,7 +1,7 @@
 # Age Calculator - Java Project
 
 ## Project Overview
-A Java console application that calculates a person's exact age in years, months, weeks, and days based on their birth date.
+A Java console application that calculates a person's exact age in years, months, and days based on their birth date.
 
 ## Key Feature
 - Calculates precise age breakdown
